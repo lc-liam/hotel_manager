@@ -18,5 +18,7 @@ Client Functions
 5. Checkout
 
 Restaurant Functions
+
 1.displayMenu
+
 2.addDish
