@@ -1,6 +1,7 @@
 # hotel_manager
 Hotel management system making use of Object-Oriented Programming in Java.
-Involves a few main classes: Admin, Client, Restaurant\n
+
+Involves a few main classes: Admin, Client, Restaurant
 Admin Functions
 1. View Rooms
 2. Create Rooms
